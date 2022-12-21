@@ -6,7 +6,7 @@ Using the GitHub thingy to advance myself somehow
 Can I make something both large and bold with these syntax things
 > Do I need slash boppers to do this?
 >> What does this do?
->>> Another layer, yet?
+>>> Another layer, yes?
 
 # New line, new me
 Why didn't these words show up?
