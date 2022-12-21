@@ -11,3 +11,5 @@ Can I make something both large and bold with these syntax things
 # New line, new me
 Why didn't these words show up?
 There they are
+
+[![CI](https://github.com/dandeliontwine/hello-intergalactic-entities/actions/workflows/whereismyclone.yml/badge.svg)](https://github.com/dandeliontwine/hello-intergalactic-entities/actions/workflows/whereismyclone.yml)
