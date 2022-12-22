@@ -1,5 +1,9 @@
 # hello-intergalactic-entities
-Using the GitHub thingy to advance myself somehow
+
+
+Using the GitHub thingy to advance my knowledge
+
+
 ## Learning how to do this is weird
 ### Do my words look big in these hashtags?
 # **How about now?**  _Unbolded_
@@ -13,3 +17,4 @@ Why didn't these words show up?
 There they are
 
 [![CI](https://github.com/dandeliontwine/hello-intergalactic-entities/actions/workflows/whereismyclone.yml/badge.svg)](https://github.com/dandeliontwine/hello-intergalactic-entities/actions/workflows/whereismyclone.yml)
+
